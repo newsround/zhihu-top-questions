@@ -192,7 +192,3 @@ Weibo popular search. Search data every hour.
 <!-- END -->
 
 History [./archives](./archives)
-
-### License
-
-MIT License release. See [LICENSE](./LICENSE)
